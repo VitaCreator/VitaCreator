@@ -1,2 +1,1 @@
-- Here you will find the current version of Vita
---->
+- Here you will find the current version of Vita (0.1)
